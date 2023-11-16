@@ -1,7 +1,10 @@
-
+import Pract from "./Pract";
 function App() {
   return (
-    <h1>Hello Ismail </h1>
+    <>
+      <Pract />
+      <h1>Hello Ismail </h1>
+    </>
   );
 }
 
